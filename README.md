@@ -46,6 +46,7 @@ com Spring, utilizando um banco de dados Postgres.</p>
 - Banco de Dados Postgresql
 - Spring Web
 - Spring Security
+- Spring Data JPA
 - Token JWT
 - Hibernate Validator
 <hr>
